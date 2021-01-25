@@ -8,4 +8,4 @@
 
 Here is an ERD for our Async-Inn. 
 
-![image](image.PNG)
+![image](CC2.PNG)
